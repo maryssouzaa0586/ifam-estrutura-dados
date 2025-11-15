@@ -1,0 +1,5 @@
+let sabado_letivo = prompt("Foi sábado letico? (S/N) ")
+let sabadista = parseInt(prompt("Voce e Adventista ou guarda o sabado_letivo? (S/N) "))
+let programa = prompt("Você gosta de programar? (S/N) ")
+let diciplina = prompt("Acha a diciplina difícil?  (S/N) ")
+document.writeln(`Foi: ${sabado_letivo.toLowerCase}, Sabadista? ${sabadista.toLowerCaseu}, Programa: ${programa,toLowerCase}, Diciplina: ${dificiol.toLowerCase}`)
